@@ -1,0 +1,501 @@
+customer_id,signup_date,city,acquisition_channel
+1_CST_Del,20-01-2023,Delhi,Organic
+2_CST_Che,05-04-2023,Chennai,Google Ads
+3_CST_Ban,23-03-2023,Bangalore,Google Ads
+4_CST_Hyd,30-01-2023,Hyderabad,Instagram
+5_CST_Del,24-02-2023,Delhi,Google Ads
+6_CST_Ban,26-06-2023,Bangalore,Facebook
+7_CST_Del,02-03-2023,Delhi,Influencer
+8_CST_Del,04-06-2023,Delhi,Organic
+9_CST_Ban,22-02-2023,Bangalore,Google Ads
+10_CST_Mum,16-02-2023,Mumbai,Google Ads
+11_CST_Ban,20-02-2023,Bangalore,Facebook
+12_CST_Che,15-04-2023,Chennai,Instagram
+13_CST_Ban,16-02-2023,Bangalore,Instagram
+14_CST_Che,16-01-2023,Chennai,Google Ads
+15_CST_Che,23-03-2023,Chennai,Facebook
+16_CST_Ban,16-05-2023,Bangalore,Facebook
+17_CST_Ban,18-02-2023,Bangalore,Influencer
+18_CST_Del,06-04-2023,Delhi,Organic
+19_CST_Hyd,17-06-2023,Hyderabad,Organic
+20_CST_Ban,10-02-2023,Bangalore,Google Ads
+21_CST_Mum,01-02-2023,Mumbai,Facebook
+22_CST_Hyd,17-05-2023,Hyderabad,Influencer
+23_CST_Che,09-01-2023,Chennai,Organic
+24_CST_Ban,21-01-2023,Bangalore,Organic
+25_CST_Ban,02-06-2023,Bangalore,Facebook
+26_CST_Che,30-04-2023,Chennai,Influencer
+27_CST_Ban,10-05-2023,Bangalore,Facebook
+28_CST_Ban,16-05-2023,Bangalore,Influencer
+29_CST_Mum,08-01-2023,Mumbai,Influencer
+30_CST_Che,09-04-2023,Chennai,Google Ads
+31_CST_Del,26-02-2023,Delhi,Facebook
+32_CST_Mum,16-05-2023,Mumbai,Facebook
+33_CST_Del,02-02-2023,Delhi,Instagram
+34_CST_Hyd,10-05-2023,Hyderabad,Influencer
+35_CST_Ban,14-01-2023,Bangalore,Instagram
+36_CST_Ban,17-01-2023,Bangalore,Influencer
+37_CST_Del,22-03-2023,Delhi,Google Ads
+38_CST_Mum,27-04-2023,Mumbai,Influencer
+39_CST_Del,12-03-2023,Delhi,Google Ads
+40_CST_Ban,17-06-2023,Bangalore,Facebook
+41_CST_Hyd,02-03-2023,Hyderabad,Organic
+42_CST_Del,22-05-2023,Delhi,Influencer
+43_CST_Del,21-02-2023,Delhi,Organic
+44_CST_Ban,21-01-2023,Bangalore,Facebook
+45_CST_Mum,16-05-2023,Mumbai,Google Ads
+46_CST_Mum,11-03-2023,Mumbai,Google Ads
+47_CST_Del,09-02-2023,Delhi,Organic
+48_CST_Che,02-04-2023,Chennai,Instagram
+49_CST_Hyd,09-04-2023,Hyderabad,Instagram
+50_CST_Che,07-03-2023,Chennai,Google Ads
+51_CST_Che,21-04-2023,Chennai,Google Ads
+52_CST_Che,05-02-2023,Chennai,Instagram
+53_CST_Del,17-06-2023,Delhi,Facebook
+54_CST_Ban,13-02-2023,Bangalore,Organic
+55_CST_Mum,25-02-2023,Mumbai,Influencer
+56_CST_Del,31-05-2023,Delhi,Google Ads
+57_CST_Che,20-01-2023,Chennai,Instagram
+58_CST_Del,02-02-2023,Delhi,Organic
+59_CST_Mum,01-01-2023,Mumbai,Facebook
+60_CST_Mum,16-02-2023,Mumbai,Organic
+61_CST_Ban,08-03-2023,Bangalore,Facebook
+62_CST_Del,19-01-2023,Delhi,Organic
+63_CST_Hyd,16-03-2023,Hyderabad,Facebook
+64_CST_Ban,27-06-2023,Bangalore,Influencer
+65_CST_Del,15-02-2023,Delhi,Instagram
+66_CST_Hyd,17-02-2023,Hyderabad,Instagram
+67_CST_Che,04-05-2023,Chennai,Organic
+68_CST_Hyd,05-03-2023,Hyderabad,Google Ads
+69_CST_Che,10-02-2023,Chennai,Influencer
+70_CST_Mum,18-01-2023,Mumbai,Google Ads
+71_CST_Che,05-01-2023,Chennai,Facebook
+72_CST_Che,06-02-2023,Chennai,Influencer
+73_CST_Ban,06-04-2023,Bangalore,Instagram
+74_CST_Del,20-01-2023,Delhi,Influencer
+75_CST_Ban,22-06-2023,Bangalore,Influencer
+76_CST_Hyd,22-03-2023,Hyderabad,Facebook
+77_CST_Mum,10-05-2023,Mumbai,Influencer
+78_CST_Che,30-01-2023,Chennai,Influencer
+79_CST_Che,03-04-2023,Chennai,Facebook
+80_CST_Che,28-05-2023,Chennai,Organic
+81_CST_Ban,23-02-2023,Bangalore,Instagram
+82_CST_Mum,10-06-2023,Mumbai,Instagram
+83_CST_Del,21-03-2023,Delhi,Influencer
+84_CST_Mum,14-03-2023,Mumbai,Instagram
+85_CST_Mum,02-02-2023,Mumbai,Instagram
+86_CST_Che,06-01-2023,Chennai,Instagram
+87_CST_Ban,06-06-2023,Bangalore,Google Ads
+88_CST_Hyd,08-01-2023,Hyderabad,Influencer
+89_CST_Hyd,08-03-2023,Hyderabad,Instagram
+90_CST_Che,21-06-2023,Chennai,Influencer
+91_CST_Che,08-03-2023,Chennai,Influencer
+92_CST_Mum,18-05-2023,Mumbai,Google Ads
+93_CST_Ban,01-06-2023,Bangalore,Instagram
+94_CST_Ban,16-03-2023,Bangalore,Influencer
+95_CST_Che,23-04-2023,Chennai,Facebook
+96_CST_Mum,11-05-2023,Mumbai,Google Ads
+97_CST_Che,02-02-2023,Chennai,Facebook
+98_CST_Che,09-06-2023,Chennai,Organic
+99_CST_Del,04-01-2023,Delhi,Instagram
+100_CST_Hyd,03-01-2023,Hyderabad,Google Ads
+101_CST_Del,31-05-2023,Delhi,Google Ads
+102_CST_Mum,13-04-2023,Mumbai,Google Ads
+103_CST_Mum,26-02-2023,Mumbai,Instagram
+104_CST_Ban,03-02-2023,Bangalore,Google Ads
+105_CST_Che,22-02-2023,Chennai,Organic
+106_CST_Che,18-05-2023,Chennai,Google Ads
+107_CST_Che,30-03-2023,Chennai,Instagram
+108_CST_Hyd,20-05-2023,Hyderabad,Facebook
+109_CST_Ban,19-05-2023,Bangalore,Organic
+110_CST_Mum,15-01-2023,Mumbai,Google Ads
+111_CST_Che,04-05-2023,Chennai,Google Ads
+112_CST_Hyd,12-02-2023,Hyderabad,Instagram
+113_CST_Che,22-05-2023,Chennai,Influencer
+114_CST_Ban,22-04-2023,Bangalore,Facebook
+115_CST_Ban,24-01-2023,Bangalore,Instagram
+116_CST_Hyd,05-03-2023,Hyderabad,Instagram
+117_CST_Ban,07-02-2023,Bangalore,Facebook
+118_CST_Del,09-04-2023,Delhi,Instagram
+119_CST_Hyd,01-05-2023,Hyderabad,Facebook
+120_CST_Del,23-05-2023,Delhi,Organic
+121_CST_Del,27-04-2023,Delhi,Facebook
+122_CST_Del,17-06-2023,Delhi,Organic
+123_CST_Del,20-05-2023,Delhi,Influencer
+124_CST_Mum,31-01-2023,Mumbai,Organic
+125_CST_Mum,19-06-2023,Mumbai,Google Ads
+126_CST_Del,14-01-2023,Delhi,Instagram
+127_CST_Che,12-05-2023,Chennai,Google Ads
+128_CST_Del,13-02-2023,Delhi,Google Ads
+129_CST_Del,15-04-2023,Delhi,Facebook
+130_CST_Ban,22-02-2023,Bangalore,Influencer
+131_CST_Hyd,24-05-2023,Hyderabad,Organic
+132_CST_Hyd,31-03-2023,Hyderabad,Instagram
+133_CST_Del,27-03-2023,Delhi,Facebook
+134_CST_Del,20-04-2023,Delhi,Facebook
+135_CST_Mum,20-06-2023,Mumbai,Facebook
+136_CST_Mum,20-05-2023,Mumbai,Facebook
+137_CST_Hyd,09-01-2023,Hyderabad,Organic
+138_CST_Mum,27-03-2023,Mumbai,Organic
+139_CST_Del,09-05-2023,Delhi,Google Ads
+140_CST_Mum,05-04-2023,Mumbai,Organic
+141_CST_Mum,06-01-2023,Mumbai,Facebook
+142_CST_Ban,06-04-2023,Bangalore,Facebook
+143_CST_Che,09-05-2023,Chennai,Instagram
+144_CST_Mum,18-03-2023,Mumbai,Organic
+145_CST_Mum,12-02-2023,Mumbai,Google Ads
+146_CST_Del,23-01-2023,Delhi,Instagram
+147_CST_Del,03-02-2023,Delhi,Google Ads
+148_CST_Mum,16-02-2023,Mumbai,Google Ads
+149_CST_Hyd,18-03-2023,Hyderabad,Google Ads
+150_CST_Mum,01-04-2023,Mumbai,Influencer
+151_CST_Ban,03-04-2023,Bangalore,Facebook
+152_CST_Mum,14-06-2023,Mumbai,Facebook
+153_CST_Del,22-05-2023,Delhi,Organic
+154_CST_Ban,24-04-2023,Bangalore,Influencer
+155_CST_Che,20-03-2023,Chennai,Influencer
+156_CST_Hyd,06-06-2023,Hyderabad,Facebook
+157_CST_Del,13-02-2023,Delhi,Instagram
+158_CST_Ban,05-04-2023,Bangalore,Instagram
+159_CST_Ban,15-06-2023,Bangalore,Organic
+160_CST_Hyd,15-01-2023,Hyderabad,Facebook
+161_CST_Hyd,06-05-2023,Hyderabad,Instagram
+162_CST_Che,02-03-2023,Chennai,Instagram
+163_CST_Mum,11-04-2023,Mumbai,Instagram
+164_CST_Hyd,06-02-2023,Hyderabad,Facebook
+165_CST_Hyd,19-01-2023,Hyderabad,Instagram
+166_CST_Mum,16-04-2023,Mumbai,Facebook
+167_CST_Del,14-03-2023,Delhi,Google Ads
+168_CST_Che,09-02-2023,Chennai,Organic
+169_CST_Del,27-01-2023,Delhi,Organic
+170_CST_Che,15-01-2023,Chennai,Influencer
+171_CST_Hyd,30-05-2023,Hyderabad,Organic
+172_CST_Mum,23-02-2023,Mumbai,Instagram
+173_CST_Del,29-03-2023,Delhi,Influencer
+174_CST_Ban,11-06-2023,Bangalore,Google Ads
+175_CST_Mum,05-01-2023,Mumbai,Instagram
+176_CST_Mum,04-04-2023,Mumbai,Facebook
+177_CST_Del,24-05-2023,Delhi,Google Ads
+178_CST_Ban,04-05-2023,Bangalore,Organic
+179_CST_Mum,15-03-2023,Mumbai,Organic
+180_CST_Ban,25-05-2023,Bangalore,Instagram
+181_CST_Del,26-05-2023,Delhi,Instagram
+182_CST_Del,14-05-2023,Delhi,Organic
+183_CST_Ban,28-02-2023,Bangalore,Influencer
+184_CST_Ban,11-04-2023,Bangalore,Facebook
+185_CST_Mum,03-03-2023,Mumbai,Instagram
+186_CST_Ban,19-04-2023,Bangalore,Organic
+187_CST_Del,29-05-2023,Delhi,Instagram
+188_CST_Che,25-01-2023,Chennai,Instagram
+189_CST_Hyd,17-02-2023,Hyderabad,Influencer
+190_CST_Che,05-06-2023,Chennai,Facebook
+191_CST_Del,25-04-2023,Delhi,Instagram
+192_CST_Del,22-01-2023,Delhi,Google Ads
+193_CST_Hyd,20-02-2023,Hyderabad,Instagram
+194_CST_Ban,27-05-2023,Bangalore,Organic
+195_CST_Del,02-02-2023,Delhi,Influencer
+196_CST_Mum,15-06-2023,Mumbai,Google Ads
+197_CST_Hyd,25-01-2023,Hyderabad,Influencer
+198_CST_Che,22-05-2023,Chennai,Organic
+199_CST_Ban,22-03-2023,Bangalore,Facebook
+200_CST_Che,18-02-2023,Chennai,Instagram
+201_CST_Mum,21-03-2023,Mumbai,Organic
+202_CST_Hyd,14-01-2023,Hyderabad,Instagram
+203_CST_Del,23-03-2023,Delhi,Influencer
+204_CST_Ban,25-01-2023,Bangalore,Influencer
+205_CST_Che,22-04-2023,Chennai,Facebook
+206_CST_Che,09-04-2023,Chennai,Influencer
+207_CST_Mum,20-05-2023,Mumbai,Influencer
+208_CST_Che,02-06-2023,Chennai,Organic
+209_CST_Hyd,24-04-2023,Hyderabad,Organic
+210_CST_Hyd,06-04-2023,Hyderabad,Organic
+211_CST_Del,03-01-2023,Delhi,Facebook
+212_CST_Che,06-03-2023,Chennai,Instagram
+213_CST_Che,30-06-2023,Chennai,Google Ads
+214_CST_Che,11-03-2023,Chennai,Influencer
+215_CST_Hyd,18-02-2023,Hyderabad,Google Ads
+216_CST_Mum,05-05-2023,Mumbai,Google Ads
+217_CST_Mum,29-03-2023,Mumbai,Instagram
+218_CST_Che,27-02-2023,Chennai,Instagram
+219_CST_Che,12-03-2023,Chennai,Instagram
+220_CST_Che,27-02-2023,Chennai,Instagram
+221_CST_Che,07-02-2023,Chennai,Instagram
+222_CST_Mum,12-02-2023,Mumbai,Instagram
+223_CST_Del,24-02-2023,Delhi,Google Ads
+224_CST_Che,01-02-2023,Chennai,Organic
+225_CST_Che,11-05-2023,Chennai,Influencer
+226_CST_Ban,10-04-2023,Bangalore,Google Ads
+227_CST_Hyd,22-04-2023,Hyderabad,Facebook
+228_CST_Del,25-01-2023,Delhi,Google Ads
+229_CST_Mum,22-05-2023,Mumbai,Google Ads
+230_CST_Hyd,26-05-2023,Hyderabad,Instagram
+231_CST_Ban,24-04-2023,Bangalore,Google Ads
+232_CST_Ban,01-01-2023,Bangalore,Google Ads
+233_CST_Che,18-04-2023,Chennai,Organic
+234_CST_Ban,20-02-2023,Bangalore,Google Ads
+235_CST_Del,03-06-2023,Delhi,Google Ads
+236_CST_Ban,31-01-2023,Bangalore,Google Ads
+237_CST_Hyd,02-03-2023,Hyderabad,Instagram
+238_CST_Hyd,23-06-2023,Hyderabad,Organic
+239_CST_Hyd,17-02-2023,Hyderabad,Google Ads
+240_CST_Del,13-01-2023,Delhi,Google Ads
+241_CST_Ban,05-05-2023,Bangalore,Organic
+242_CST_Che,07-04-2023,Chennai,Influencer
+243_CST_Ban,06-01-2023,Bangalore,Organic
+244_CST_Ban,01-02-2023,Bangalore,Google Ads
+245_CST_Hyd,07-06-2023,Hyderabad,Instagram
+246_CST_Che,19-01-2023,Chennai,Influencer
+247_CST_Del,29-03-2023,Delhi,Instagram
+248_CST_Ban,11-01-2023,Bangalore,Influencer
+249_CST_Del,03-04-2023,Delhi,Influencer
+250_CST_Che,31-01-2023,Chennai,Facebook
+251_CST_Che,09-01-2023,Chennai,Google Ads
+252_CST_Ban,28-06-2023,Bangalore,Instagram
+253_CST_Hyd,11-06-2023,Hyderabad,Organic
+254_CST_Hyd,20-01-2023,Hyderabad,Google Ads
+255_CST_Che,14-03-2023,Chennai,Organic
+256_CST_Hyd,30-03-2023,Hyderabad,Influencer
+257_CST_Mum,19-01-2023,Mumbai,Facebook
+258_CST_Che,15-01-2023,Chennai,Instagram
+259_CST_Che,20-06-2023,Chennai,Influencer
+260_CST_Del,07-01-2023,Delhi,Influencer
+261_CST_Del,02-03-2023,Delhi,Facebook
+262_CST_Ban,08-02-2023,Bangalore,Google Ads
+263_CST_Mum,07-01-2023,Mumbai,Influencer
+264_CST_Ban,14-03-2023,Bangalore,Facebook
+265_CST_Mum,14-05-2023,Mumbai,Organic
+266_CST_Hyd,11-04-2023,Hyderabad,Google Ads
+267_CST_Che,08-06-2023,Chennai,Organic
+268_CST_Ban,12-01-2023,Bangalore,Organic
+269_CST_Che,28-01-2023,Chennai,Facebook
+270_CST_Del,28-05-2023,Delhi,Google Ads
+271_CST_Ban,08-01-2023,Bangalore,Influencer
+272_CST_Ban,20-06-2023,Bangalore,Facebook
+273_CST_Mum,21-06-2023,Mumbai,Organic
+274_CST_Del,20-03-2023,Delhi,Google Ads
+275_CST_Mum,22-04-2023,Mumbai,Instagram
+276_CST_Mum,03-06-2023,Mumbai,Organic
+277_CST_Mum,18-02-2023,Mumbai,Facebook
+278_CST_Hyd,05-03-2023,Hyderabad,Organic
+279_CST_Mum,23-06-2023,Mumbai,Google Ads
+280_CST_Mum,25-04-2023,Mumbai,Facebook
+281_CST_Del,25-04-2023,Delhi,Organic
+282_CST_Ban,15-04-2023,Bangalore,Organic
+283_CST_Hyd,12-02-2023,Hyderabad,Google Ads
+284_CST_Che,02-06-2023,Chennai,Google Ads
+285_CST_Hyd,03-06-2023,Hyderabad,Google Ads
+286_CST_Mum,12-04-2023,Mumbai,Google Ads
+287_CST_Hyd,11-05-2023,Hyderabad,Facebook
+288_CST_Mum,17-03-2023,Mumbai,Influencer
+289_CST_Del,23-06-2023,Delhi,Organic
+290_CST_Che,25-06-2023,Chennai,Instagram
+291_CST_Che,05-04-2023,Chennai,Instagram
+292_CST_Mum,29-03-2023,Mumbai,Facebook
+293_CST_Del,16-05-2023,Delhi,Influencer
+294_CST_Che,17-05-2023,Chennai,Organic
+295_CST_Hyd,12-04-2023,Hyderabad,Google Ads
+296_CST_Che,10-04-2023,Chennai,Organic
+297_CST_Del,03-06-2023,Delhi,Organic
+298_CST_Mum,30-06-2023,Mumbai,Influencer
+299_CST_Che,03-06-2023,Chennai,Google Ads
+300_CST_Hyd,14-05-2023,Hyderabad,Organic
+301_CST_Del,27-06-2023,Delhi,Facebook
+302_CST_Hyd,12-05-2023,Hyderabad,Instagram
+303_CST_Ban,04-03-2023,Bangalore,Google Ads
+304_CST_Del,12-05-2023,Delhi,Organic
+305_CST_Ban,17-03-2023,Bangalore,Facebook
+306_CST_Ban,03-01-2023,Bangalore,Google Ads
+307_CST_Ban,29-06-2023,Bangalore,Facebook
+308_CST_Che,04-04-2023,Chennai,Facebook
+309_CST_Hyd,12-05-2023,Hyderabad,Facebook
+310_CST_Del,11-05-2023,Delhi,Organic
+311_CST_Hyd,03-01-2023,Hyderabad,Google Ads
+312_CST_Ban,13-02-2023,Bangalore,Influencer
+313_CST_Che,10-01-2023,Chennai,Influencer
+314_CST_Ban,24-02-2023,Bangalore,Organic
+315_CST_Ban,08-04-2023,Bangalore,Instagram
+316_CST_Mum,08-01-2023,Mumbai,Instagram
+317_CST_Del,23-06-2023,Delhi,Influencer
+318_CST_Mum,26-01-2023,Mumbai,Instagram
+319_CST_Del,13-04-2023,Delhi,Organic
+320_CST_Ban,16-01-2023,Bangalore,Google Ads
+321_CST_Hyd,29-01-2023,Hyderabad,Instagram
+322_CST_Ban,14-04-2023,Bangalore,Organic
+323_CST_Hyd,07-06-2023,Hyderabad,Instagram
+324_CST_Che,07-04-2023,Chennai,Google Ads
+325_CST_Mum,04-04-2023,Mumbai,Google Ads
+326_CST_Hyd,01-01-2023,Hyderabad,Google Ads
+327_CST_Hyd,08-03-2023,Hyderabad,Organic
+328_CST_Mum,30-01-2023,Mumbai,Instagram
+329_CST_Che,21-02-2023,Chennai,Organic
+330_CST_Hyd,07-05-2023,Hyderabad,Instagram
+331_CST_Ban,01-02-2023,Bangalore,Google Ads
+332_CST_Ban,01-01-2023,Bangalore,Facebook
+333_CST_Del,28-03-2023,Delhi,Influencer
+334_CST_Mum,09-04-2023,Mumbai,Influencer
+335_CST_Hyd,20-05-2023,Hyderabad,Google Ads
+336_CST_Del,08-05-2023,Delhi,Influencer
+337_CST_Del,22-04-2023,Delhi,Organic
+338_CST_Del,27-05-2023,Delhi,Instagram
+339_CST_Hyd,26-06-2023,Hyderabad,Google Ads
+340_CST_Mum,01-05-2023,Mumbai,Instagram
+341_CST_Mum,29-06-2023,Mumbai,Influencer
+342_CST_Che,19-03-2023,Chennai,Organic
+343_CST_Hyd,03-03-2023,Hyderabad,Organic
+344_CST_Ban,18-04-2023,Bangalore,Instagram
+345_CST_Ban,02-01-2023,Bangalore,Organic
+346_CST_Hyd,18-01-2023,Hyderabad,Google Ads
+347_CST_Hyd,01-06-2023,Hyderabad,Facebook
+348_CST_Del,14-02-2023,Delhi,Influencer
+349_CST_Che,22-04-2023,Chennai,Organic
+350_CST_Del,29-04-2023,Delhi,Google Ads
+351_CST_Ban,06-06-2023,Bangalore,Google Ads
+352_CST_Hyd,14-03-2023,Hyderabad,Facebook
+353_CST_Hyd,20-01-2023,Hyderabad,Facebook
+354_CST_Che,03-01-2023,Chennai,Google Ads
+355_CST_Hyd,17-06-2023,Hyderabad,Organic
+356_CST_Mum,28-05-2023,Mumbai,Google Ads
+357_CST_Del,15-05-2023,Delhi,Influencer
+358_CST_Mum,06-01-2023,Mumbai,Organic
+359_CST_Ban,01-05-2023,Bangalore,Instagram
+360_CST_Che,27-02-2023,Chennai,Influencer
+361_CST_Mum,08-05-2023,Mumbai,Google Ads
+362_CST_Mum,21-03-2023,Mumbai,Influencer
+363_CST_Ban,30-05-2023,Bangalore,Instagram
+364_CST_Ban,23-02-2023,Bangalore,Facebook
+365_CST_Mum,18-01-2023,Mumbai,Influencer
+366_CST_Che,19-02-2023,Chennai,Instagram
+367_CST_Che,11-06-2023,Chennai,Facebook
+368_CST_Hyd,21-05-2023,Hyderabad,Google Ads
+369_CST_Che,15-05-2023,Chennai,Google Ads
+370_CST_Che,25-01-2023,Chennai,Organic
+371_CST_Del,27-01-2023,Delhi,Instagram
+372_CST_Hyd,20-04-2023,Hyderabad,Influencer
+373_CST_Mum,16-06-2023,Mumbai,Instagram
+374_CST_Hyd,30-03-2023,Hyderabad,Influencer
+375_CST_Ban,24-05-2023,Bangalore,Instagram
+376_CST_Mum,16-02-2023,Mumbai,Instagram
+377_CST_Mum,02-06-2023,Mumbai,Facebook
+378_CST_Del,18-01-2023,Delhi,Facebook
+379_CST_Hyd,11-01-2023,Hyderabad,Influencer
+380_CST_Hyd,07-05-2023,Hyderabad,Influencer
+381_CST_Che,05-05-2023,Chennai,Facebook
+382_CST_Ban,24-06-2023,Bangalore,Organic
+383_CST_Hyd,04-06-2023,Hyderabad,Influencer
+384_CST_Ban,16-05-2023,Bangalore,Google Ads
+385_CST_Ban,22-02-2023,Bangalore,Organic
+386_CST_Hyd,14-02-2023,Hyderabad,Organic
+387_CST_Ban,26-05-2023,Bangalore,Organic
+388_CST_Ban,07-01-2023,Bangalore,Google Ads
+389_CST_Che,27-04-2023,Chennai,Instagram
+390_CST_Mum,25-05-2023,Mumbai,Instagram
+391_CST_Del,17-06-2023,Delhi,Google Ads
+392_CST_Hyd,20-06-2023,Hyderabad,Google Ads
+393_CST_Ban,05-03-2023,Bangalore,Influencer
+394_CST_Mum,05-06-2023,Mumbai,Organic
+395_CST_Del,11-01-2023,Delhi,Facebook
+396_CST_Hyd,28-03-2023,Hyderabad,Organic
+397_CST_Hyd,09-05-2023,Hyderabad,Facebook
+398_CST_Mum,01-04-2023,Mumbai,Instagram
+399_CST_Ban,04-01-2023,Bangalore,Instagram
+400_CST_Che,10-05-2023,Chennai,Google Ads
+401_CST_Ban,21-03-2023,Bangalore,Influencer
+402_CST_Che,14-03-2023,Chennai,Influencer
+403_CST_Del,21-05-2023,Delhi,Instagram
+404_CST_Hyd,02-05-2023,Hyderabad,Google Ads
+405_CST_Del,13-04-2023,Delhi,Facebook
+406_CST_Ban,12-03-2023,Bangalore,Influencer
+407_CST_Mum,02-02-2023,Mumbai,Influencer
+408_CST_Hyd,01-05-2023,Hyderabad,Instagram
+409_CST_Hyd,03-01-2023,Hyderabad,Instagram
+410_CST_Ban,19-01-2023,Bangalore,Organic
+411_CST_Che,13-03-2023,Chennai,Google Ads
+412_CST_Ban,03-06-2023,Bangalore,Organic
+413_CST_Ban,13-03-2023,Bangalore,Instagram
+414_CST_Che,15-02-2023,Chennai,Organic
+415_CST_Che,23-02-2023,Chennai,Facebook
+416_CST_Che,23-02-2023,Chennai,Google Ads
+417_CST_Del,15-02-2023,Delhi,Organic
+418_CST_Del,11-01-2023,Delhi,Influencer
+419_CST_Mum,29-03-2023,Mumbai,Instagram
+420_CST_Mum,06-04-2023,Mumbai,Google Ads
+421_CST_Ban,18-02-2023,Bangalore,Influencer
+422_CST_Ban,17-04-2023,Bangalore,Organic
+423_CST_Mum,23-02-2023,Mumbai,Google Ads
+424_CST_Che,28-03-2023,Chennai,Influencer
+425_CST_Del,27-02-2023,Delhi,Instagram
+426_CST_Hyd,10-06-2023,Hyderabad,Instagram
+427_CST_Hyd,11-03-2023,Hyderabad,Organic
+428_CST_Ban,13-06-2023,Bangalore,Organic
+429_CST_Hyd,28-02-2023,Hyderabad,Facebook
+430_CST_Che,11-05-2023,Chennai,Organic
+431_CST_Mum,16-01-2023,Mumbai,Influencer
+432_CST_Mum,07-06-2023,Mumbai,Instagram
+433_CST_Del,16-03-2023,Delhi,Instagram
+434_CST_Hyd,17-03-2023,Hyderabad,Organic
+435_CST_Del,27-03-2023,Delhi,Google Ads
+436_CST_Mum,15-03-2023,Mumbai,Facebook
+437_CST_Mum,11-02-2023,Mumbai,Facebook
+438_CST_Che,19-04-2023,Chennai,Influencer
+439_CST_Mum,22-01-2023,Mumbai,Facebook
+440_CST_Mum,13-02-2023,Mumbai,Influencer
+441_CST_Ban,01-02-2023,Bangalore,Google Ads
+442_CST_Del,07-04-2023,Delhi,Google Ads
+443_CST_Mum,25-04-2023,Mumbai,Influencer
+444_CST_Hyd,04-05-2023,Hyderabad,Facebook
+445_CST_Ban,01-05-2023,Bangalore,Organic
+446_CST_Hyd,25-06-2023,Hyderabad,Google Ads
+447_CST_Che,26-02-2023,Chennai,Facebook
+448_CST_Ban,15-02-2023,Bangalore,Influencer
+449_CST_Ban,07-03-2023,Bangalore,Organic
+450_CST_Del,23-06-2023,Delhi,Organic
+451_CST_Mum,22-04-2023,Mumbai,Instagram
+452_CST_Mum,29-03-2023,Mumbai,Organic
+453_CST_Del,26-01-2023,Delhi,Facebook
+454_CST_Del,29-01-2023,Delhi,Instagram
+455_CST_Mum,10-04-2023,Mumbai,Google Ads
+456_CST_Hyd,07-05-2023,Hyderabad,Organic
+457_CST_Ban,25-02-2023,Bangalore,Organic
+458_CST_Hyd,15-02-2023,Hyderabad,Instagram
+459_CST_Che,22-04-2023,Chennai,Influencer
+460_CST_Hyd,14-06-2023,Hyderabad,Organic
+461_CST_Del,04-04-2023,Delhi,Google Ads
+462_CST_Che,11-02-2023,Chennai,Instagram
+463_CST_Hyd,01-01-2023,Hyderabad,Facebook
+464_CST_Hyd,14-05-2023,Hyderabad,Google Ads
+465_CST_Del,29-06-2023,Delhi,Influencer
+466_CST_Del,05-06-2023,Delhi,Facebook
+467_CST_Del,15-04-2023,Delhi,Instagram
+468_CST_Ban,23-05-2023,Bangalore,Influencer
+469_CST_Mum,30-01-2023,Mumbai,Organic
+470_CST_Del,15-02-2023,Delhi,Instagram
+471_CST_Del,29-03-2023,Delhi,Instagram
+472_CST_Che,02-06-2023,Chennai,Instagram
+473_CST_Ban,13-04-2023,Bangalore,Google Ads
+474_CST_Mum,21-03-2023,Mumbai,Organic
+475_CST_Che,04-03-2023,Chennai,Google Ads
+476_CST_Hyd,14-05-2023,Hyderabad,Google Ads
+477_CST_Hyd,09-05-2023,Hyderabad,Google Ads
+478_CST_Del,17-03-2023,Delhi,Facebook
+479_CST_Mum,30-06-2023,Mumbai,Instagram
+480_CST_Mum,10-01-2023,Mumbai,Influencer
+481_CST_Hyd,28-03-2023,Hyderabad,Influencer
+482_CST_Ban,21-01-2023,Bangalore,Influencer
+483_CST_Hyd,06-06-2023,Hyderabad,Google Ads
+484_CST_Che,06-02-2023,Chennai,Instagram
+485_CST_Che,02-06-2023,Chennai,Instagram
+486_CST_Del,30-01-2023,Delhi,Organic
+487_CST_Hyd,22-04-2023,Hyderabad,Facebook
+488_CST_Ban,06-04-2023,Bangalore,Instagram
+489_CST_Mum,04-04-2023,Mumbai,Influencer
+490_CST_Del,27-05-2023,Delhi,Instagram
+491_CST_Hyd,16-06-2023,Hyderabad,Instagram
+492_CST_Hyd,05-05-2023,Hyderabad,Instagram
+493_CST_Hyd,03-05-2023,Hyderabad,Google Ads
+494_CST_Del,11-03-2023,Delhi,Facebook
+495_CST_Che,29-06-2023,Chennai,Google Ads
+496_CST_Ban,06-02-2023,Bangalore,Google Ads
+497_CST_Ban,20-03-2023,Bangalore,Instagram
+498_CST_Hyd,19-02-2023,Hyderabad,Facebook
+499_CST_Ban,16-01-2023,Bangalore,Instagram
+500_CST_Che,16-05-2023,Chennai,Instagram
