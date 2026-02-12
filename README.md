@@ -100,20 +100,27 @@ The analysis answers the following product questions:
 ---
 
 ## Project Structure
-product-analytics-case-study/
+```
+kapiva-product-analysis/
 │
 ├── data/
-│ ├── customers.csv
-│ ├── orders.csv
-│ └── events.csv
+│   ├── customers.csv
+│   ├── orders.csv
+│   └── events.csv
+│
+├── excel-analysis/
+│   └── kapiva_initial_analysis.xlsx
 │
 ├── sql/
-│ └── analysis_queries.sql
+│   └── analysis_queries.sql
 │
 ├── dashboard/
-│ └── Kapiva_Dashboard_Template.xlsx
+│   └── kapiva_dashboard.pbix
 │
-└── README.md
+└── case-study/
+    └── kapiva_product_case_study.pdf
+```
+
 
 ---
 
