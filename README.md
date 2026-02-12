@@ -1,7 +1,7 @@
 # D2C Product Analytics Case Study
 
 ## Project Overview
-This project simulates a real-world product analytics case study for a Direct-to-Consumer (D2C) health and wellness brand similar to Kapiva.  
+This project simulates a real-world product analytics case study for a Direct-to-Consumer (D2C) health and wellness brand .  
 The objective is to analyze customer behavior, acquisition channels, retention, and revenue to identify growth opportunities.
 
 This project demonstrates practical product analytics skills using SQL, Excel, and dashboarding tools.
