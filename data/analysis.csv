@@ -1,0 +1,6 @@
+event_type,Distinct Count of customer_id,,drop-off rates,
+add_to_cart,452,,Add-to-cart rate,100%
+checkout,443,,Checkout rate,98%
+purchase,445,,Purchase rate,100%
+view_product,451,,,
+Grand Total,500,,,
