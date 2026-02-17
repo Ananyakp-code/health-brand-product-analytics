@@ -4,7 +4,7 @@
 This project simulates a real-world product analytics case study for a Direct-to-Consumer (D2C) health and wellness brand .  
 The objective is to analyze customer behavior, acquisition channels, retention, and revenue to identify growth opportunities.
 
-This project demonstrates practical product analytics skills using SQL, Excel, and dashboarding tools.
+This project demonstrates practical product analytics skills using SQL, Excel.
 
 ---
 
@@ -94,14 +94,13 @@ The analysis answers the following product questions:
 
 ## Tools Used
 - SQL (MySQL)
-- Excel (data exploration & pivot tables)
-- Power BI / Excel dashboard
+- Excel (data exploration & pivot tables)6
 
 ---
 
 ## Project Structure
 ```
-kapiva-product-analysis/
+Health-Product-Analytics/
 │
 ├── data/
 │   ├── customers.csv
@@ -109,16 +108,15 @@ kapiva-product-analysis/
 │   └── events.csv
 │
 ├── excel-analysis/
-│   └── kapiva_initial_analysis.xlsx
+│   └── .xlsx
+│   └── .xlsx
+│   └── .xlsx
 │
 ├── sql/
 │   └── analysis_queries.sql
 │
-├── dashboard/
-│   └── kapiva_dashboard.pbix
-│
 └── case-study/
-    └── kapiva_product_case_study.pdf
+    └── product_case_study.pdf
 ```
 
 
@@ -133,40 +131,15 @@ kapiva-product-analysis/
    - Retention and repeat rate
    - Cohort analysis
    - Subscription LTV
-3. Dashboard creation
-4. Product insights and recommendations
-
----
-
-## Key Insights (Example)
-- Instagram is the top acquisition channel by customer volume.
-- Apple Cider Vinegar generates the highest revenue.
-- Most customers are one-time buyers, indicating low retention.
-- Major funnel drop-off occurs between product view and add-to-cart.
-- Subscribers have significantly higher LTV than non-subscribers.
-
----
-
-## Product Recommendations
-- Introduce subscription discounts after first purchase.
-- Send reminders around Day 25–30 to drive repeat orders.
-- Optimize product pages to improve add-to-cart conversion.
+3. Product insights and recommendations
 
 ---
 
 ## How to Run the Project
 1. Import CSV files into MySQL.
 2. Run SQL queries from the `sql` folder.
-3. Export results.
-4. Build dashboard in Excel or Power BI.
-
----
-
-## Resume Bullet (Example)
-Conducted end-to-end product analytics for a D2C health brand using SQL and Excel, identifying major funnel drop-offs and proposing subscription-based retention strategies to improve customer lifetime value.
 
 ---
 
 ## Author
-Your Name  
-Aspiring Product Analyst
+Ananya K P
