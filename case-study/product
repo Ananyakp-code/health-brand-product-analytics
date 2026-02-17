@@ -1,0 +1,7 @@
+Exploratory Analysis (Excel)
+Initial exploration in Excel showed:
+•	Balanced acquisition across channels
+•	Apple Cider Vinegar as top revenue driver
+•	51.8% repeat purchase rate
+•	Funnel inconsistencies with later stages sometimes exceeding earlier ones
+This indicated the need for a time-based funnel analysis in SQL to get accurate conversion metrics.
