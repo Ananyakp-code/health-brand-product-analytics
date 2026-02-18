@@ -1,4 +1,4 @@
-# D2C Product Analytics Case Study
+# D2C Health Product Analytics
 
 ## Project Overview
 This project simulates a real-world product analytics case study for a Direct-to-Consumer (D2C) health and wellness brand .  
